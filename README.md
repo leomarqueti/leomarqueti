@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Leonardo Marqueti 😄
 
-- 🔭 Hoje estou iniciando no mundo da programação
+- 🔭 Estou iniciando no mundo da programação
 - 🌱 Estudando Javacript
 - 📫 Contate-me pelo email: dommessi2@gmail.com
 <div align="center">
