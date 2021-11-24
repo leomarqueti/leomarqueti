@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Leonardo Marqueti 😄
+### Olá!! Eu sou o Leonardo Marqueti 😄 SEJA BEM VINDO, aqui vou deixar todos os meus projetos, estudos e tudo oque eu fizer que envolve programação. Fica à vontade!!!
 
 - 🔭 Estou iniciando no mundo da programação
 - 🌱 Estudando Javacript
