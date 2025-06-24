@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Leonardo Marqueti 😄 SEJA BEM VINDO, aqui vou deixar todos os meus projetos, estudos e tudo oque eu fizer que envolve programação. Fica à vontade!!!
 
 - 🔭 Estou iniciando no mundo da programação
-- 🌱 Estudando Python e Inteligencia Artificial
+- 🌱 Estudando Cybersecurity
 - 📫 Contate-me pelo email: leonardomarquetidelima@gmail.com
 <div align="center">
   <a href="https://github.com/leomarqueti">
